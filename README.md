@@ -1,60 +1,131 @@
-💫 About Me:
-Hi, I’m Haris Farooqi
-🎓 Student At UBIT UOK| Aspiring Web Developer
-🚀 Learning by building real-world projects
+👋 Hi, I’m Haris Farooqi
+
+🎓 Student at UBIT – University of Karachi
+💻 Aspiring Full-Stack / Frontend Developer
+🚀 Passionate about building real-world, scalable projects
+
+I focus on clean code, modern frameworks, and continuous learning. Actively seeking internship / entry-level opportunities.
 
 🔭 Currently Working On
-Personal Chatbot and Automation projects
-React.js and React.native projects
-Next.js & frontend web apps
-Improving my coding & problem-solving skills
+
+🤖 Chatbot & Automation projects
+
+⚛️ React.js & React Native applications
+
+🌐 Next.js frontend web apps
+
+🧠 Improving problem-solving & software design skills
 
 🌱 Currently Learning
-Python and java
-React.js,React.native and Next.js
-Git & GitHub
-API and backend concepts
 
-👯 Looking to Collaborate On
-Beginner-friendly projects
-Frontend / UI-based web apps
-Learning projects with other students & developers
+🐍 Python & ☕ Java
 
-🤝 Looking for Help With
-frameworks best practices
-Clean code & project structure
-Deploying projects (Vercel / Netlify)
-Using Git & GitHub professionally
+⚛️ React.js, React Native, Next.js, Node.js
 
-💬 Ask Me About
-Python and java
-Frontend development
-Full Stack Development
-Student-level programming
-How to start coding from scratch
+🔧 Git & GitHub professional workflows
 
-⚡ Fun Fact
-I enjoy coding late at night and learn best by building projects
+🔌 APIs & backend fundamentals
 
-🛠️ Tech Stack
-Languages: JavaScript, HTML, CSS
-Frameworks: React, Next.js
-Tools: Git, GitHub, VS Code
+🧑‍💻 Project Showcase (Pinned Repos)
+
+📌 (Pin these repos for maximum recruiter impact)
+
+🔹 Chatbot & Automation System
+
+Built using JavaScript / Python
+
+Focus on automation & real-world use cases
+
+🔗 Repo: Add link
+
+🔹 React Frontend Application
+
+Modern UI with reusable components
+
+Fully responsive & clean design
+
+🔗 Repo: Add link
+
+🔹 Next.js Web App
+
+Server-side rendering & optimized performance
+
+Dynamic routing & API integration
+
+🔗 Repo: Add link
+
+💡 Tip: Recruiters look at pinned projects first
+
+🛠️ Skills & Tech Stack (Badges)
+💻 Languages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⚛️ Frameworks & Libraries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧰 Tools & Platforms
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harisfarooqi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisfarooqi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=harisfarooqi&theme=tokyonight)
-![Visitor Count](https://komarev.com/ghpvc/?username=harisfarooqi&color=cyan&style=flat-square)
 
-🎯 Career Goal
-Actively preparing for internships / entry-level roles to gain real-world experience and grow as a frontend developer.
+
+
+
+
+
+👀 Profile Visitors
+
+🎯 Career Objective
+
+Seeking internship / entry-level developer roles to:
+
+Contribute to real-world projects
+
+Learn from experienced developers
+
+Grow as a professional software engineer
+
 📫 Connect With Me
-💼 GitHub: https://github.com/harisfarooqi
-🌐 Portfolio: Coming soon…
 
-💻 Tech Stack:
-Java JavaScript Python CSS3 HTML5 C++ Vercel Netlify .Net Next JS NodeJS React Native React Flutter Django Adobe Figma Git GitHub Cisco Battle.net
+💼 GitHub: https://github.com/harisfarooqi
+
+🌐 Portfolio: Coming soon…
 
 
 
