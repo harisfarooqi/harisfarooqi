@@ -1,5 +1,76 @@
-# 💫 About Me:
-👋 Hi, I’m Haris Farooqi<br><br>🎓 Student at UBIT – University of Karachi 💻 Aspiring Full-Stack / Frontend Developer 🚀 Passionate about building real-world, scalable projects<br><br>I focus on clean code, modern frameworks, and continuous learning. Actively seeking internship / entry-level opportunities.<br><br>🔭 Currently Working On<br><br>🤖 Chatbot & Automation projects<br><br>⚛️ React.js & React Native applications<br><br>🌐 Next.js frontend web apps<br><br>🧠 Improving problem-solving & software design skills<br><br>🌱 Currently Learning<br><br>🐍 Python & ☕ Java<br><br>⚛️ React.js, React Native, Next.js, Node.js<br><br>🔧 Git & GitHub professional workflows<br><br>🔌 APIs & backend fundamentals<br><br>🧑‍💻 Project Showcase (Pinned Repos)<br><br>📌 (Pin these repos for maximum recruiter impact)<br><br>🔹 Chatbot & Automation System<br><br>Built using JavaScript / Python<br><br>Focus on automation & real-world use cases<br><br>🔗 Repo: Add link<br><br>🔹 React Frontend Application<br><br>Modern UI with reusable components<br><br>Fully responsive & clean design<br><br>🔗 Repo: Add link<br><br>🔹 Next.js Web App<br><br>Server-side rendering & optimized performance<br><br>Dynamic routing & API integration<br><br>🔗 Repo: Add link<br><br>💡 Tip: Recruiters look at pinned projects first<br><br>🛠️ Skills & Tech Stack (Badges) 💻 Languages<br><br>⚛️ Frameworks & Libraries<br><br>🧰 Tools & Platforms<br><br>📊 GitHub Stats<br><br>👀 Profile Visitors<br><br>🎯 Career Objective<br><br>Seeking internship / entry-level developer roles to:<br><br>Contribute to real-world projects<br><br>Learn from experienced developers<br><br>Grow as a professional software engineer<br><br>📫 Connect With Me<br><br>💼 GitHub: https://github.com/harisfarooqi<br><br>🌐 Portfolio: Coming soon…
+                                                                                                                ---
+# 💫 About Me
+
+👋 Hi, I’m **Haris Farooqi**
+
+🎓 **Student at UBIT – University of Karachi**  
+💻 **Aspiring Full-Stack / Frontend Developer**  
+🚀 Passionate about building **real-world, scalable applications**
+
+---
+
+## 🔭 Currently Working On
+
+* 🤖 **Chatbot & Automation Projects** – building intelligent, real-world solutions  
+* ⚛️ **React.js & React Native Applications** – modern, responsive UI/UX  
+* 🌐 **Next.js Web Apps** – optimized performance & server-side rendering  
+* 🧠 **Improving Problem-Solving & Software Design Skills**
+
+---
+
+## 🌱 Currently Learning
+
+* 🐍 **Python** & ☕ **Java**  
+* ⚛️ **React.js, React Native, Next.js, Node.js**  
+* 🔧 **Git & GitHub professional workflows**  
+* 🔌 **APIs & Backend Fundamentals**
+
+---
+
+## 🧑‍💻 Projects 
+
+📌 **Pin these projects for maximum recruiter impact**
+
+* 🔹 **Chatbot & Automation System**  
+  * Built using **JavaScript & Python**  
+  * Focused on **automation & real-world use cases**  
+  * 🔗 Repo: *Add Link*
+
+* 🔹 **React Frontend Application**  
+  * **Modern UI with reusable components**  
+  * **Fully responsive and clean design**  
+  * 🔗 Repo: *Add Link*
+
+* 🔹 **Next.js Web App**  
+  * **Server-side rendering & optimized performance**  
+  * **Dynamic routing & API integration**  
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Languages:** JavaScript, Python, Java  
+**Frameworks & Libraries:** React.js, React Native, Next.js, Node.js  
+**Tools & Platforms:** Git, GitHub, VS Code, APIs, Figma
+
+---
+
+## 🎯 Career Objective
+
+Seeking **internship or entry-level developer roles** to:
+
+* Contribute to **real-world, impactful projects**  
+* Learn from **experienced developers**  
+* Grow as a **professional software engineer**
+
+---
+
+## 📫 Connect With Me
+
+💼 **GitHub:** [https://github.com/harisfarooqi](https://github.com/harisfarooqi)  
+🌐 **Portfolio:** Coming soon…
+```
+
 
 
 # 💻 Tech Stack:
