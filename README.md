@@ -1,6 +1,70 @@
-                                                                                                            ---<br># 💫 About Me<br><br>👋 Hi, I’m **Haris Farooqi**<br><br>🎓 **Student at UBIT – University of Karachi**  <br>💻 **Aspiring Full-Stack / Frontend Developer**  <br>🚀 Passionate about building **real-world, scalable applications**<br><br>---<br><br>## 🔭 Currently Working On<br><br>* 🤖 **Chatbot & Automation Projects** – building intelligent, real-world solutions  <br>* ⚛️ **React.js & React Native Applications** – modern, responsive UI/UX  <br>* 🌐 **Next.js Web Apps** – optimized performance & server-side rendering  <br>* 🧠 **Improving Problem-Solving & Software Design Skills**<br><br>---<br><br>## 🌱 Currently Learning<br><br>* 🐍 **Python** & ☕ **Java**  <br>* ⚛️ **React.js, React Native, Next.js, Node.js**  <br>* 🔧 **Git & GitHub professional workflows**  <br>* 🔌 **APIs & Backend Fundamentals**<br><br>---<br><br>## 🧑‍💻 Projects <br><br>📌 **Pin these projects for maximum recruiter impact**<br><br>* 🔹 **Chatbot & Automation System**  <br>  * Built using **JavaScript & Python**  <br>  * Focused on **automation & real-world use cases**  <br>  * 🔗 Repo: *Add Link*<br><br>* 🔹 **React Frontend Application**  <br>  * **Modern UI with reusable components**  <br>  * **Fully responsive and clean design**  <br>  * 🔗 Repo: *Add Link*<br><br>* 🔹 **Next.js Web App**  <br>  * **Server-side rendering & optimized performance**  <br>  * **Dynamic routing & API integration**  <br><br>---<br><br>## 🛠️ Skills & Tech Stack<br><br>**Languages:** JavaScript, Python, Java  <br>**Frameworks & Libraries:** React.js, React Native, Next.js, Node.js  <br>**Tools & Platforms:** Git, GitHub, VS Code, APIs, Figma<br><br>---<br><br>## 🎯 Career Objective<br><br>Seeking **internship or entry-level developer roles** to:<br><br>* Contribute to **real-world, impactful projects**  <br>* Learn from **experienced developers**  <br>* Grow as a **professional software engineer**<br><br>---<br><br>## 📫 Connect With Me<br><br>💼 **GitHub:** [https://github.com/harisfarooqi](https://github.com/harisfarooqi)  <br>🌐 **Portfolio:** Coming soon…<br>```
-# 💫 About Me:
-                                                                                                                ---<br># 💫 About Me<br><br>👋 Hi, I’m **Haris Farooqi**<br><br>🎓 **Student at UBIT – University of Karachi**  <br>💻 **Aspiring Full-Stack / Frontend Developer**  <br>🚀 Passionate about building **real-world, scalable applications**<br><br>---<br><br>## 🔭 Currently Working On<br><br>* 🤖 **Chatbot & Automation Projects** – building intelligent, real-world solutions  <br>* ⚛️ **React.js & React Native Applications** – modern, responsive UI/UX  <br>* 🌐 **Next.js Web Apps** – optimized performance & server-side rendering  <br>* 🧠 **Improving Problem-Solving & Software Design Skills**<br><br>---<br><br>## 🌱 Currently Learning<br><br>* 🐍 **Python** & ☕ **Java**  <br>* ⚛️ **React.js, React Native, Next.js, Node.js**  <br>* 🔧 **Git & GitHub professional workflows**  <br>* 🔌 **APIs & Backend Fundamentals**<br><br>---<br><br>## 🧑‍💻 Projects <br><br>📌 **Pin these projects for maximum recruiter impact**<br><br>* 🔹 **Chatbot & Automation System**  <br>  * Built using **JavaScript & Python**  <br>  * Focused on **automation & real-world use cases**  <br>  * 🔗 Repo: *Add Link*<br><br>* 🔹 **React Frontend Application**  <br>  * **Modern UI with reusable components**  <br>  * **Fully responsive and clean design**  <br>  * 🔗 Repo: *Add Link*<br><br>* 🔹 **Next.js Web App**  <br>  * **Server-side rendering & optimized performance**  <br>  * **Dynamic routing & API integration**  <br><br>---<br><br>## 🛠️ Skills & Tech Stack<br><br>**Languages:** JavaScript, Python, Java  <br>**Frameworks & Libraries:** React.js, React Native, Next.js, Node.js  <br>**Tools & Platforms:** Git, GitHub, VS Code, APIs, Figma<br><br>---<br><br>## 🎯 Career Objective<br><br>Seeking **internship or entry-level developer roles** to:<br><br>* Contribute to **real-world, impactful projects**  <br>* Learn from **experienced developers**  <br>* Grow as a **professional software engineer**<br><br>---<br><br>## 📫 Connect With Me<br><br>💼 **GitHub:** [https://github.com/harisfarooqi](https://github.com/harisfarooqi)  <br>🌐 **Portfolio:** Coming soon…<br>```
+# 💫 About Me
+
+👋 Hi, I’m **Haris Farooqi**
+
+🎓 **Student at UBIT – University of Karachi**  
+💻 **Aspiring Full-Stack / Frontend Developer**  
+🚀 Passionate about building **real-world, scalable applications**
+
+---
+
+## 🔭 Currently Working On
+
+* 🤖 **Chatbot & Automation Projects** – building intelligent, real-world solutions  
+* ⚛️ **React.js & React Native Applications** – modern, responsive UI/UX  
+* 🌐 **Next.js Web Apps** – optimized performance & server-side rendering  
+* 🧠 **Improving Problem-Solving & Software Design Skills**
+
+---
+
+## 🌱 Currently Learning
+
+* 🐍 **Python** & ☕ **Java**  
+* ⚛️ **React.js, React Native, Next.js, Node.js**  
+* 🔧 **Git & GitHub professional workflows**  
+* 🔌 **APIs & Backend Fundamentals**
+
+---
+
+## 🧑‍💻 Projects
+
+* 🔹 **Chatbot & Automation System**  
+  * Built using **JavaScript & Python**  
+  * Focused on **automation & real-world use cases**  
+
+* 🔹 **React Frontend Application**  
+  * **Modern UI with reusable components**  
+  * **Fully responsive and clean design**  
+
+* 🔹 **Next.js Web App**  
+  * **Server-side rendering & optimized performance**  
+  * **Dynamic routing & API integration**  
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Languages:** JavaScript, Python, Java  
+**Frameworks & Libraries:** React.js, React Native, Next.js, Node.js  
+**Tools & Platforms:** Git, GitHub, VS Code, APIs, Figma
+
+---
+
+## 🎯 Career Objective
+
+Seeking **internship or entry-level developer roles** to:
+
+* Contribute to **real-world, impactful projects**  
+* Learn from **experienced developers**  
+* Grow as a **professional software engineer**
+
+---
+
+## 📫 Connect With Me
+
+💼 **GitHub:** [https://github.com/harisfarooqi](https://github.com/harisfarooqi)  
+🌐 **Portfolio:** Coming soon…
+
 
 
 # 💻 Tech Stack:
